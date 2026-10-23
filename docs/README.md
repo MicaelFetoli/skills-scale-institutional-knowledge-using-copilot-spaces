@@ -4,11 +4,11 @@ This repository contains the OctoAcme project management process documentation u
 
 ## Project Management Process Summary
 
-OctoAcme follows an iterative, cross-functional delivery model built around clear ownership, stakeholder alignment, measurable outcomes, and continuous improvement. Work moves through initiation, planning, execution, release, and retrospective stages, with regular communication, risk tracking, and escalation paths to support delivery. The process begins by validating the business need and creating a lightweight project one-pager with goals, success metrics, stakeholders, and dependencies. Once approved, the team breaks work into backlog items with estimates, acceptance criteria, and a shared definition of done before execution begins.
+OctoAcme follows an iterative, cross-functional delivery model built around clear ownership, stakeholder alignment, measurable outcomes, and continuous improvement. Work moves through initiation, planning, execution, release, and retrospectives. Each phase defines the expected deliverables, responsibilities, and decision points that keep projects on track.
 
-During execution, the team uses standups, weekly syncs, demos, and project boards to track progress and manage blockers. Roles are clearly defined so product, project, engineering, and QA responsibilities remain aligned and accountable. Communication is regular and structured, with escalation paths that move issues from the team level to project leadership and sponsors when they affect delivery or business outcomes. Quality is treated as a continuous practice through test coverage, CI checks, security scanning, smoke testing, and release review before production changes are shipped.
+During planning, the team clarifies scope, estimates work, identifies dependencies, and aligns on release milestones. During execution, the team uses standups, weekly syncs, demos, and project boards to track progress and manage blockers. Roles are clearly defined so product, project, engineering, and QA responsibilities are understood and visible.
 
-The process also emphasizes learning and improvement. After milestones, releases, or incident reviews, the team captures what went well, what needs adjustment, and which action items should move into the backlog or issue tracker. This helps OctoAcme maintain transparency, reduce single-point dependency risk, and improve delivery over time.
+The process also emphasizes learning and improvement. After milestones, releases, or incident reviews, the team captures what went well, what needs adjustment, and which action items should move into the backlog or project tracking system.
 
 ## Documentation Index
 
@@ -23,4 +23,4 @@ The process also emphasizes learning and improvement. After milestones, releases
 
 ## How to Use These Docs
 
-Start with the project overview to understand the overall lifecycle, then move to the guide most relevant to your role or current project stage. Use the initiation and planning documents to validate a new idea or create a structured backlog, the execution guide to manage delivery rhythm, and the release and retrospective materials to safely ship and improve the process over time.
+Start with the project overview to understand the overall lifecycle, then move to the guide most relevant to your role or current project stage. Use the initiation and planning documents to validate the problem, align stakeholders, and define scope before execution begins. During delivery, reference the execution and risk guides to track progress, escalate blockers, and communicate with stakeholders. At milestones and after releases, use the retrospective and release documents to capture learning and improve the process over time.
